@@ -1,0 +1,5 @@
+/Project1/Debug
+/Project1/*.sdf
+/Project1/Project1/Debug
+
+*.suo
